@@ -1,1 +1,0 @@
-execute as @a[nbt={SelectedItem:{id:"minecraft:wooden_hoe",tag:{display:{Name:'{"text":"Pipe","color":"dark_gray","italic":false}'}}}}] at @s run particle minecraft:campfire_smoke_particle ~ ~1 ~ 0.5 0.5 0.5 0.01 10
