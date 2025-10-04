@@ -58,5 +58,3 @@ pipes.reload (OP)
 
 ## Compatibility
 - Minecraft 1.21+
-- Updated for modern Minecraft versions
-- Uses current material names (SHORT_GRASS instead of deprecated GRASS)
