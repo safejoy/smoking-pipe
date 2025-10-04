@@ -1,0 +1,17 @@
+name: MarijuanaPipes
+description: Marijuana pipes you can smoke with various effects
+author: Joy
+main: com.joy.marijuanaPipes.Main
+version: 2.0
+api-version: 1.21
+
+commands:
+  pipes:
+    description: Marijuana pipes
+    default: true
+    usage: "Usage: /pipes [info|reload]"
+
+permissions:
+  pipes.reload:
+    default: op
+    description: Allows you to reload the config
